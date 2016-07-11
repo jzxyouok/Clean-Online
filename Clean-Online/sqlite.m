@@ -14,7 +14,7 @@
 {
     static sqlite *sqlite=nil;
     static dispatch_once_t predicate;
-    dispatch_once(&predicate, ^{
+    dispatch_once(&predicate, ^{//  xiancheng 
         sqlite = [[self alloc] init];
         [sqlite createSqlite3];
         
