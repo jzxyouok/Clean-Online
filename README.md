@@ -1,4 +1,4 @@
 # Clean-Online
 project
 ##引导页
-![](http://pan.baidu.com/disk/home#category/type=3&vmode=grid)
+![](http://i4.piimg.com/567571/fb420f0440b0a836.png)
