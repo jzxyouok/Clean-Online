@@ -2,7 +2,7 @@
 project
 ##引导页
 
-![](http://i1.piimg.com/567571/4a86ae5ad83b5a34.png)
+![](http://i1.piimg.com/567571/4a86ae5ad83b5a34.png =100x100)
 ##登陆界面
 
 ![](http://i1.piimg.com/567571/b161a594f832d551.png)
