@@ -1,5 +1,4 @@
 # Clean-Online
 project
 ##引导页
-![](./likang/Desktop/1.png )
-
+![](http://pan.baidu.com/disk/home#category/type=3&vmode=grid)
