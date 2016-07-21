@@ -2,5 +2,4 @@
 project
 ##引导页
 
-
-![](file:///Users/likang/Desktop/background.png)
+![image](file:///Users/likang/Desktop/background.png)
